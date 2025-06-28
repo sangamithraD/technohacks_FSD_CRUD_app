@@ -50,6 +50,7 @@ Click delete 🗑️ to remove task
 ---
 ## 🔗 Project Links
 🚀 GitHub Repo: https://github.com/sangamithraD/technohacks_FSD_CRUD_app
+LinkedIn Post: https://www.linkedin.com/posts/sangamithra-d-8a4092301_crudapp-frontenddevelopment-javascript-activity-7344732487056510976-uxb_?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk
 🎓 Internship: TechnoHacks Full Stack Development
 👩‍💻 Author: Sangamithra D
 
